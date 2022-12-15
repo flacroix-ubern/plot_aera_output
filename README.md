@@ -3,4 +3,4 @@ Plot output from the adaptive emission reduction approach for chosen stocktake y
 
 Should be run as following: 
 
-python plot_aera_output.py $AERA_output_path $year_of_stocktake
+```python plot_aera_output.py $AERA_output_path $year_of_stocktake```
